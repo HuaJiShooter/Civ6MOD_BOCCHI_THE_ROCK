@@ -1,0 +1,2 @@
+# Civ6MOD_BOCCHI_THE_ROCK
+A civ6 mod
